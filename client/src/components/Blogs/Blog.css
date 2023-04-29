@@ -1,0 +1,34 @@
+.blog-page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .blog-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .banner-image {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .author-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .author-name {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .blog-content {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
